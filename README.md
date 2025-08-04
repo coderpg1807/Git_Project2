@@ -9,4 +9,4 @@ Used: Git Init
     ** git remote add origin <- Link ->
     check git remote -v
     check git branch
-    ** git push origin main
+    ** git push origin main.
